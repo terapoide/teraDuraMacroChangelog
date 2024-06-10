@@ -10,3 +10,4 @@ Its just the changelog of the macro i'm doing
 > * I finnaly understood how Sliders work and how to get the value, it took me 2 hours but i can continue with the Project
 > * Finished GUI
 > * Todo2: Make a Stamina and Health verification based on the slider, and the define where are the marks on the HP bar
+> * i did the part where it saves the button position and started making the attacking part
