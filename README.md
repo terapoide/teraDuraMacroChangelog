@@ -16,4 +16,5 @@ Its just the changelog of the macro i'm doing
 > * removed the stamina thing temporarily
 > * its currently working non stop :)
 > * still have to do the HP verifications from Todo2
+## 07/10/2024
 > * made the formula for where in the bar is each spot from the slider
