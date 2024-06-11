@@ -9,10 +9,11 @@ Its just the changelog of the macro i'm doing
 > * ~~Todo1: Started working on the Sliders thing and i am currently struggling to use its value on other variable (i had never used sliders before)~~
 > * I finnaly understood how Sliders work and how to get the value, it took me 2 hours but i can continue with the Project
 > * Finished GUI
-> * Todo2: Make a Stamina and Health verification based on the slider, and the define where are the marks on the HP bar
+> * ~~Todo2: Make a Stamina and Health verification based on the slider, and the define where are the marks on the HP bar~~
 > * i did the part where it saves the button position and started making the attacking part
 > * finished the loop where the p2 does the maximum ammount of hits without ending the body conditioning timer
 > * added a verification to wait until player's hp is full
 > * removed the stamina thing temporarily
 > * its currently working non stop :)
 > * still have to do the HP verifications from Todo2
+> * made the formula for where in the bar is each spot from the slider
