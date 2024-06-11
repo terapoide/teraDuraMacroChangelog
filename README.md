@@ -18,3 +18,4 @@ Its just the changelog of the macro i'm doing
 > * still have to do the HP verifications from Todo2
 ## 07/10/2024
 > * made the formula for where in the bar is each spot from the slider
+> * finished todo2
