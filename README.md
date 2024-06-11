@@ -19,3 +19,5 @@ Its just the changelog of the macro i'm doing
 ## 07/10/2024
 > * made the formula for where in the bar is each spot from the slider
 > * finished todo2
+> * made the hp verifications every 2/3 hits
+> * still have to do some tests 
