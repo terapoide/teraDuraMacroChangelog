@@ -20,4 +20,6 @@ Its just the changelog of the macro i'm doing
 > * made the formula for where in the bar is each spot from the slider
 > * finished todo2
 > * made the hp verifications every 2/3 hits
-> * still have to do some tests 
+> * still have to do some tests
+> * Im suffering, depressed and about to kms, there are a lot of bugs with the HP verifications
+> * Bug02
