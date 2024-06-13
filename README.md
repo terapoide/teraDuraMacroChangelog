@@ -52,9 +52,10 @@ Its just the changelog of the macro i'm doing
 > * fixed a couple more bugs
 > * Fixed some Macro Breaking bugs
 > * made it faster
+> * did more optimizations
 > * Both Sides Dura test:
 > * 50% -> Working
-> * 40% ->
+> * 40% -> Working
 > * 30% ->
 > * 20% ->
 > * 10% ->
