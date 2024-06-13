@@ -42,6 +42,8 @@ Its just the changelog of the macro i'm doing
 > * Added some verification to show different msgBoxes dependind on what option the user chooses
 > * made the buy button selection works for both sided dura
 > * Decided how it will work
+> * almost finishing Both sides dura
+> * Bug03: due to too many lines and too many verifications, the macro became slower and it is self breaking, imma fix it asap 
 ## Progress:
 > * One sided dura = 100%
 > * both sides dura = 70% 
