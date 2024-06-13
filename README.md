@@ -43,7 +43,10 @@ Its just the changelog of the macro i'm doing
 > * made the buy button selection works for both sided dura
 > * Decided how it will work
 > * almost finishing Both sides dura
-> * Bug03: due to too many lines and too many verifications, the macro became slower and it is self breaking, imma fix it asap 
+> * ~~Bug03: due to too many lines and too many verifications, the macro became slower and it is self breaking, imma fix it asap~~
+> * Bug03 Fixed
+> * The full loop where both players grind dura is working
+> * just some final ajustments and tests and its done!
 ## Progress:
 > * One sided dura = 100%
 > * both sides dura = 70% 
