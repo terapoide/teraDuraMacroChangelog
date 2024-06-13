@@ -29,3 +29,11 @@ Its just the changelog of the macro i'm doing
 > * Fixed Bug02
 > * Finished OneSidedDura
 > * Doing final tests for this feature
+> * Changed some UI stuff
+> * removed unused UI and Code stuff
+> * TESTING STATS:
+> * 50% -> Working
+> * 40% -> Cant test due to account stats
+> * 30% -> Cant test due to account stats
+> * 20% -> Cant test due to account stats
+> * 10% -> Cant test due to account stats
