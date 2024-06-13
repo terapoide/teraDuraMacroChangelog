@@ -50,6 +50,7 @@ Its just the changelog of the macro i'm doing
 > * finished the coding, testing time :)
 > * fixed some smaller bugs
 > * fixed a couple more bugs
+> * Fixed some Macro Breaking bugs
 > * Both Sides Dura test:
 > * 50% ->
 > * 40% ->
