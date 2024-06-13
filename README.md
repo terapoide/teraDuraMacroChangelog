@@ -37,8 +37,11 @@ Its just the changelog of the macro i'm doing
 > * 30% -> Working
 > * 20% -> Working
 > * 10% -> Working
-## One sided dura is Done!!!!
 > * Started working on Both Sided dura
 > * made the Option on the GUI
 > * Added some verification to show different msgBoxes dependind on what option the user chooses
 > * made the buy button selection works for both sided dura
+>
+> * Progress:
+> * One sided dura = 100%
+> * both sides dura = 30% 
