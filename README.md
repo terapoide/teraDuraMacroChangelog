@@ -58,7 +58,9 @@ Its just the changelog of the macro i'm doing
 > * 40% -> Working
 > * 30% -> Working
 > * 20% -> Working
-> * 10% ->
+> * 10% -> Working
 ## Progress:
 > * One sided dura = 100%
-> * both sides dura = 90% 
+> * both sides dura = 100%
+# Final thoughts
+> * it can be upgraded, but i am exausted, it is working and thats just a demo, so ig its fine
