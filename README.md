@@ -41,7 +41,7 @@ Its just the changelog of the macro i'm doing
 > * made the Option on the GUI
 > * Added some verification to show different msgBoxes dependind on what option the user chooses
 > * made the buy button selection works for both sided dura
->
+> * Decided how it will work
 ## Progress:
 > * One sided dura = 100%
 > * both sides dura = 30% 
