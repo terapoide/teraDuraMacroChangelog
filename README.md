@@ -51,8 +51,9 @@ Its just the changelog of the macro i'm doing
 > * fixed some smaller bugs
 > * fixed a couple more bugs
 > * Fixed some Macro Breaking bugs
+> * made it faster
 > * Both Sides Dura test:
-> * 50% ->
+> * 50% -> Working
 > * 40% ->
 > * 30% ->
 > * 20% ->
