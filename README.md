@@ -56,9 +56,9 @@ Its just the changelog of the macro i'm doing
 > * Both Sides Dura test:
 > * 50% -> Working
 > * 40% -> Working
-> * 30% ->
+> * 30% -> Working
 > * 20% ->
 > * 10% ->
 ## Progress:
 > * One sided dura = 100%
-> * both sides dura = 70% 
+> * both sides dura = 90% 
