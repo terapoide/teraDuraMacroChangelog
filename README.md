@@ -42,6 +42,6 @@ Its just the changelog of the macro i'm doing
 > * Added some verification to show different msgBoxes dependind on what option the user chooses
 > * made the buy button selection works for both sided dura
 >
-> * Progress:
+## Progress:
 > * One sided dura = 100%
 > * both sides dura = 30% 
