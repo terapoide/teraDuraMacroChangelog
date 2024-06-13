@@ -47,6 +47,14 @@ Its just the changelog of the macro i'm doing
 > * Bug03 Fixed
 > * The full loop where both players grind dura is working
 > * just some final ajustments and tests and its done!
+> * finished the coding, testing time :)
+> * fixem some smaller bugs
+> * Both Sides Dura test:
+> * 50% ->
+> * 40% ->
+> * 30% ->
+> * 20% ->
+> * 10% ->
 ## Progress:
 > * One sided dura = 100%
 > * both sides dura = 70% 
