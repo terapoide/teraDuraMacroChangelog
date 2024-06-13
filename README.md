@@ -44,4 +44,4 @@ Its just the changelog of the macro i'm doing
 > * Decided how it will work
 ## Progress:
 > * One sided dura = 100%
-> * both sides dura = 30% 
+> * both sides dura = 70% 
