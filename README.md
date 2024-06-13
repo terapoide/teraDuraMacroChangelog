@@ -34,6 +34,6 @@ Its just the changelog of the macro i'm doing
 > * TESTING STATS:
 > * 50% -> Working
 > * 40% -> Working
-> * 30% -> Cant test due to account stats
+> * 30% -> Working
 > * 20% -> Cant test due to account stats
 > * 10% -> Cant test due to account stats
